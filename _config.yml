@@ -1,0 +1,28 @@
+name: INTRAGO
+favicon: null
+layout_spectrum: 0.9716636578086764
+typography_spectrum: 0.9643194682430476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10192098282277584
+  lightness: 0.533396638231352
+  saturation: 0.5950044193305075
+  rhythmicContrast: 0.6060183779336512
+purpose: []
